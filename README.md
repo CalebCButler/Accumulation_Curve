@@ -1,2 +1,2 @@
-# Accumulation_Curve
-This a simple script with the purpose of simulating variance for various methodologies.
+# Variance Accumulation_Curve
+The purpose of this script is to help optimize variability in methodologies. In our example, we have a plate that is subdivided into 9 squares. If you were to only be able to reload it so many times, how many squares should you count and at what threshhold should all variability be accounted for? This was the question for the original script and data, but this could be easily adapted for other questions where you have a limited number of wells/plates/cells/etc so how many reps should you do otherwise. 
